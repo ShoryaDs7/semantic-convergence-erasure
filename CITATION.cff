@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Semantic-Convergence Erasure"
+authors:
+  - family-names: Shaurya
+    given-names: Dev
+    alias: Shorya Dev
+date-released: "2026-01-02"
+version: "1.0"
+repository-code: "https://github.com/ShoryaDs7/semantic-convergence-erasure"
+abstract: >
+  A canonical research preprint and formal materials establishing a necessary
+  lower bound on irreversible information erasure in long-lived,
+  meaning-preserving computation.

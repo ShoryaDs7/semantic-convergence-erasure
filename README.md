@@ -29,8 +29,13 @@ accounting.
 
 ## Citation
 
-This work is an unpublished research preprint.  
-Please cite the arXiv version once available.
+If you use this work, please cite it as:
+
+Dev Shaurya. (2026). Semantic-Convergence Erasure. GitHub repository.
+https://github.com/ShoryaDs7/semantic-convergence-erasure
+
+Or automatically via the citation tool:
+
 
 ---
 

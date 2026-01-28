@@ -1,6 +1,6 @@
 # Semantic-Convergence Erasure
 
-**Author:** Dev Shaurya (publicly known as Shorya Dev)  
+**Author:** Dev Shorya 
 **Status:** Canonical Research Preprint  
 **Year:** 2026
 
